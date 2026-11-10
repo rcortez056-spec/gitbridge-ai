@@ -23,6 +23,6 @@ GitBridge AI eliminates the fragmentation between code repositories and team col
 
 To review the source code and configuration files:
 
-bash
-git clone [https://github.com/rcortez056-spec/gitbridge-ai.git](https://github.com/rcortez056-spec/gitbridge-ai.git)
+```bash
+git clone https://github.com/rcortez056-spec/gitbridge-ai.git
 cd gitbridge-ai
